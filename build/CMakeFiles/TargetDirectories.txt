@@ -1,0 +1,3 @@
+/home/jenkins/repo/testproj/build/CMakeFiles/edit_cache.dir
+/home/jenkins/repo/testproj/build/CMakeFiles/rebuild_cache.dir
+/home/jenkins/repo/testproj/build/CMakeFiles/test.dir

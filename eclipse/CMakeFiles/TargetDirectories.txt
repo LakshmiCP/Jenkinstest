@@ -1,0 +1,3 @@
+/home/jenkins/repo/testproj/eclipse/CMakeFiles/edit_cache.dir
+/home/jenkins/repo/testproj/eclipse/CMakeFiles/rebuild_cache.dir
+/home/jenkins/repo/testproj/eclipse/CMakeFiles/test.dir
